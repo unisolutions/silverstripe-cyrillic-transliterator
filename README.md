@@ -1,4 +1,4 @@
-silverstripe-latesttweets
+Cyrillic transliteration in url segment for Silverstripe
 =======================
 
 Cyrillic transliteration in url segment for SilverStripe.
