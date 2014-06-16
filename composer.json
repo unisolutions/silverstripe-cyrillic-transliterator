@@ -1,0 +1,17 @@
+{
+	"name": "unisolutions/silverstripe-cyrillic-transliterator",
+	"type": "silverstripe-module",
+	"description": "Adds Adds cyrillic transliteration in url segment..",
+	"keywords": ["silverstripe", "transliteration", "urlsegment"],
+	"authors": [{
+		"name": "Elvinas Liutkevičius",
+		"email": "elvinas@unisolutions.eu"
+	}],
+	"require": {
+		"silverstripe/cms": "3.*"
+	},
+	"minimum-stability": "dev",
+	"extra": {
+		"installer-name": "cyrillic-transliterator"
+	}
+}
