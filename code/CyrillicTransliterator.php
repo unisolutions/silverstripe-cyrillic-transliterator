@@ -57,7 +57,7 @@ class CyrillicTransliterator extends SS_Transliterator {
 				'Ё' => 'E', 'ё' => 'e',
 				'Ж' => 'Zh', 'ж' => 'zh',
 				'З' => 'Z', 'з' => 'z',
-				'И' => 'I', 'И' => 'I', 'и' => 'i',
+				'И' => 'I', 'и' => 'i',
 				'Й' => 'I', 'й' => 'i',
 				'К' => 'K', 'к' => 'k',
 				'Л' => 'L', 'л' => 'l',
