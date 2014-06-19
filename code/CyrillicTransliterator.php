@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Support class for converting cyrilic (Russian) and unicode strings into a suitable 7-bit ASCII equivalent.
+ * Support class for converting cyrillic (Russian) and unicode strings into a suitable 7-bit ASCII equivalent.
  *
  * It supports these systems:
  * - Passport (2013), ICAO (http://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_table)
