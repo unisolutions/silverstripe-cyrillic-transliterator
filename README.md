@@ -1,4 +1,4 @@
-Cyrillic transliteration in url segment for Silverstripe
+Cyrillic transliteration in url segment for SilverStripe
 =======================
 
 Cyrillic transliteration in url segment for SilverStripe.
