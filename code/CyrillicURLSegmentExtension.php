@@ -18,7 +18,7 @@ class CyrillicURLSegmentExtension extends DataExtension {
 		$t = $filter->filter($title);
 
 		// Fallback to generic page name if path is empty (= no valid, convertable characters)
-		if(!$t || $t == '-' || $t == '-1') $t = "page-$this->ID";
+		if (!$t || $t == '-' || $t == '-1') $t = "page-" . $this->owner->ID;
 	}
 
 }
